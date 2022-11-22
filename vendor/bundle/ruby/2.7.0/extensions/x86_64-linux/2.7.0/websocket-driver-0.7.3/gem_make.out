@@ -1,0 +1,15 @@
+current directory: /home/moringa/Documents/Development/phase_4/phase-4-rails-update-destroy-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20221122-53822-ttzzka.rb extconf.rb
+creating Makefile
+
+current directory: /home/moringa/Documents/Development/phase_4/phase-4-rails-update-destroy-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/moringa/Documents/Development/phase_4/phase-4-rails-update-destroy-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/moringa/Documents/Development/phase_4/phase-4-rails-update-destroy-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20221122-53822-1ecwuj0
